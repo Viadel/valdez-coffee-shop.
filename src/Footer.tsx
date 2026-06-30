@@ -12,11 +12,11 @@ const Footer: React.FC = () => {
             <h3 className="text-xl font-bold text-amber-400">Contacto</h3>
             <div className="flex items-center gap-2">
               <IoCall className="text-amber-400" size={20} />
-              <span>(+57)315 7290589</span>
+              <span>(+57)00000000</span>
             </div>
             <div className="flex items-center gap-2">
               <IoMail className="text-amber-400" size={20} />
-              <span>v60684909@gmail.com</span>
+              <span>@gmail</span>
             </div>
             <div className="flex items-center gap-2">
               <IoLocation className="text-amber-400" size={20} />
